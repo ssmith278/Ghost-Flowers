@@ -1,0 +1,3 @@
+Welcome to the test realm.
+Press the down arrow key
+when you're near the red square.
