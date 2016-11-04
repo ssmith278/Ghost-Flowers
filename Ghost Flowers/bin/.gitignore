@@ -1,16 +1,2 @@
-/Backgrounds/
-/Dialogue/
-/HUD/
-/Maps/
 /Saves/
-/Sprites/
-/Tilesets/
-/attackObject/
-/enemyObject/
-/fileObject/
-/gameObject/
-/gameState/
-/main/
-/playState/
-/playerObject/
-/tileMap/
+/.gitignore
