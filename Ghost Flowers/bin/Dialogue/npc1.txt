@@ -1,0 +1,4 @@
+Hello, Player!
+
+Try to collect all the checkpoints.
+Return to me when you're done.
